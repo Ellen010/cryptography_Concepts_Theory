@@ -1,7 +1,7 @@
-This question is asking if you understand cryptography concepts, specifically the two main types of encryption: symmetric encryption and asymmetric encryption. Here's a breakdown of what they mean:
+Cryptography Concepts 
 
-Cryptography Concepts
 Cryptography is the practice of securing information by converting it into a form that unauthorized users cannot understand (encryption). It is used to ensure confidentiality, integrity, authentication, and non-repudiation of data.
+
 
 1. Symmetric Encryption
 Definition: In symmetric encryption, the same key is used to both encrypt and decrypt the data.
@@ -18,6 +18,8 @@ Use Cases:
 
 Securing data at rest (e.g., encrypting files or databases).
 VPNs (Virtual Private Networks) for fast data transmission.
+
+
 2. Asymmetric Encryption
 Definition: In asymmetric encryption, two different keys are used:
 
@@ -29,9 +31,11 @@ More secure because the private key is never shared.
 Slower than symmetric encryption due to complex mathematical operations.
 Examples:
 
+
 RSA (Rivest-Shamir-Adleman)
 ECC (Elliptic Curve Cryptography)
 Use Cases:
+
 
 Secure communication over the internet (e.g., HTTPS, SSL/TLS).
 Digital signatures for verifying authenticity.
